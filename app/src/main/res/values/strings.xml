@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="startText">Все места свободны</string>
+    <string name="midText">Осталось мест: $textCounter</string>
+    <string name="b1Text">ADD</string>
+    <string name="b2Text">DEL</string>
+    <string name="b3Text">СБРОС</string>
+
+
+</resources>
